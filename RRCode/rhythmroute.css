@@ -1,0 +1,56 @@
+html {
+    min-width: 100%;
+    min-height: 100%;
+}
+
+#background {
+    top: 0;
+    left: 0;
+    min-width: 100%;
+    min-height: 100%;
+    background: #414042;
+    background-position: no-repeat center center fixed;
+    position: absolute;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+
+#logo {
+    font-size: 132px;
+    font-family: 'aleo';
+    margin: 385px 0 0 0;
+    padding: 0;
+    border: none;
+    display: inline-block;
+}
+
+#logo2 {
+    font-size: 132px;
+    font-family: 'aleo';
+    margin: 385px 0 0 14px;
+    padding: 0;
+    border: none;
+    display: inline-block;
+}
+
+#undertext {
+    width: 350px;
+    font-size: 36px;
+    font-family: 'aleo';
+    color: #E6E7E8;
+    background-color: #7BC142;
+    margin: 0 25% 0 25%;
+    display: inline-block;
+    padding: 5px;
+    border-radius: 15px;
+}
+
+
+<!--
+Green: #7BC142
+White: #F1F2F2
+Dark Grey: #414042
+Grey: #808285
+Black: #000000
+-->
