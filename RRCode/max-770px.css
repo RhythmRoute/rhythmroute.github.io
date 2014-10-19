@@ -19,7 +19,7 @@ html {
 #logo {
     font-size: 8.3em;
     font-family: 'aleo';
-    margin: 385px 0 0 0;
+    margin: 25% 0 0 0;
     padding: 0;
     border: none;
     display: inline-block;
@@ -28,19 +28,19 @@ html {
 #logo2 {
     font-size: 8.3em;
     font-family: 'aleo';
-    margin: 385px 0 0 14px;
+    margin: -50px 0 0 15px;
     padding: 0;
     border: none;
     display: inline-block;
 }
 
 #undertext {
-    width: 350px;
+    width: 52%;
     font-size: 36px;
     font-family: 'aleo';
     color: #E6E7E8;
     background-color: #7BC142;
-    margin: 0 25% 0 25%;
+    margin: 5% 25% 0 25%;
     display: inline-block;
     padding: 5px;
     border-radius: 15px;
